@@ -28,5 +28,3 @@ def solution(A):
 
     return min_avg[1]
 
-
-print(solution([-3, -5, -8, -4, -10]))
